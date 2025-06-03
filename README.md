@@ -1,6 +1,4 @@
 # Student Registration App
-
-## Description
 The Student Registration App is a C++ application designed to manage a class roster of students using Object-Oriented Programming (OOP) principles. The app leverages classes and objects to ensure modularity, reusability, and maintainability, while providing an intuitive way to process and manage student data.
 
 ## Key Features
