@@ -14,7 +14,7 @@ The Student Registration App is a C++ application designed to manage a class ros
   - Show students grouped by degree programs.
   - Remove student by ID.
 
-## Technologies Used
+## Technologies
 - C++
 - Visual Studio 2022
 
